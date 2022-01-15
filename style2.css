@@ -27,3 +27,8 @@ body{
 .nav-link.active:hover{
     background-color: #0037ff;
 }
+
+.h2, h2{
+    padding: 3vw;
+    color: wheat;
+}

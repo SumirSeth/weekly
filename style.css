@@ -12,6 +12,8 @@ body{
 .nav-pills .nav-link{
     color: #84a9df;
     border-radius: 15px;
+    border-color: white;
+    border-width: 10px;
     background-color: rgb(39, 39, 39);
     margin-inline: .3vw;
 }
@@ -49,9 +51,9 @@ a:visited{
     text-decoration: none;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
   
 a:active {
-    text-decoration: underline;
+    text-decoration: none;
 }
