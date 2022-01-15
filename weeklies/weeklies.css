@@ -29,19 +29,12 @@ body{
 }
 
 .h2, h2{
-    padding: 4vw;
+    padding-top: 4vw;
+    padding-inline: 4vw;
     color: wheat;
 }
-
-
-.list-group-item {
-    margin-inline: 4vw;
-    position: relative;
-    display: block;
-    padding: .5rem 1rem;
-    color: #b8e979;
-    text-decoration: underline;
-    background-color: rgba(255, 255, 255, 0);
-    border: 1px solid rgba(0,0,0,.125);
-    font-size: 2.5vh;
+.p, p{
+    padding-inline: 4vw;
+    font-size: large;
+    color:rgb(163, 155, 140)
 }
