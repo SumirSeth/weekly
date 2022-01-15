@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(12, 12, 12);
+}
+
+.nav{
+    padding-block-start: 1.5vh;
+    padding-inline: 1vw;
+    font-size: 2vh;
+}
