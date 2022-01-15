@@ -27,8 +27,8 @@ body{
 /* ------------------------------- */
 
 .h1, h1 {
-    font-size: 13vh;
+    font-size: 12vh;
     color: rgb(175, 187, 253);
-    padding: 10vh;
+    padding: 6vw;
     text-align: center;
 }
