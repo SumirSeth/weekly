@@ -28,5 +28,7 @@ body{
 
 .h1, h1 {
     font-size: 13vh;
-    color: pink;
+    color: rgb(175, 187, 253);
+    padding: 10vh;
+    text-align: center;
 }
