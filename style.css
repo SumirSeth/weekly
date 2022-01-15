@@ -23,3 +23,10 @@ body{
 .nav-link.active:hover{
     background-color: #0037ff;
 }
+
+/* ------------------------------- */
+
+.h1, h1 {
+    font-size: calc(0.75vh + 5vw);
+    color: pink;
+}
