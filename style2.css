@@ -29,6 +29,18 @@ body{
 }
 
 .h2, h2{
-    padding: 3vw;
+    padding: 4vw;
     color: wheat;
+}
+
+
+.list-group-item {
+    margin-inline: 4vw;
+    position: relative;
+    display: block;
+    padding: .5rem 1rem;
+    color: #ffffff;
+    text-decoration: underline;
+     background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(0,0,0,.125);
 }
