@@ -27,6 +27,6 @@ body{
 /* ------------------------------- */
 
 .h1, h1 {
-    font-size: calc(15vh + 0.750vw);
+    font-size: 13vh;
     color: pink;
 }
