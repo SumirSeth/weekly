@@ -30,19 +30,20 @@ body{
 
 .h2, h2{
     padding-top: 4vw;
-    padding-inline: 4vw;
+    padding-inline: 6vw;
     color: wheat;
 }
 p.little{
-    padding-inline: 4vw;
+    padding-inline: 6vw;
     font-size: large;
     color:rgb(163, 155, 140)
 }
 
 div.content {
     color:white;
-    padding:4vw;
-    font-size: 2.5vh;
+    padding-top: 3vw;
+    padding-inline:6vw;
+    font-size: 1.5rem;
     padding-right:10vw;
 }
 
