@@ -33,8 +33,15 @@ body{
     padding-inline: 4vw;
     color: wheat;
 }
-.p, p{
+p.little{
     padding-inline: 4vw;
     font-size: large;
     color:rgb(163, 155, 140)
+}
+
+div.content {
+    color:white;
+    padding:4vw;
+    font-size: 3vh;
+    padding-right:20vw;
 }
