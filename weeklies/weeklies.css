@@ -42,6 +42,10 @@ p.little{
 div.content {
     color:white;
     padding:4vw;
-    font-size: 3vh;
+    font-size: 2.5vh;
     padding-right:20vw;
+}
+
+.blockquote{
+    padding-left: 4vh;
 }
