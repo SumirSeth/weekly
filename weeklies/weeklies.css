@@ -49,6 +49,9 @@ div.content {
 
 .blockquote{
     font-family: monospace;
-    font-size: calc(0.75em + 1vmin);
+    font-size: calc(0.75em + 0.8vmin);
     padding-left: 4vh;
+    padding-block: 2vh;
+    background-color: #222222;
+    border-radius: 30px;
 }
