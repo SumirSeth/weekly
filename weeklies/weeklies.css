@@ -45,7 +45,7 @@ div.content {
     padding-inline:6vw;
     font-size: calc(0.75em + 1vmin);
     padding-right:10vw;
-    line-height: calc(0.75em + 2.5vh);
+    line-height: calc(0.75em + 2.2vh);
 }
 
 .blockquote{
