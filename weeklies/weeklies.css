@@ -61,3 +61,30 @@ footer{
     margin-top: 20vh;
     text-align: center;
 }
+
+body::-webkit-scrollbar {
+	width:0.6rem;
+}
+
+body::-webkit-scrollbar-track {
+	background:#0f0f0f;
+
+}
+body::-webkit-scrollbar-track:hover {
+	background:#000305;
+	width:1rem;
+}
+
+
+body::-webkit-scrollbar-thumb {
+	background:#317ab6;
+    border-radius: 100px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+	background:#235985;
+	width:1rem;
+}
+body::-webkit-scrollbar:hover {
+	width:1rem;
+}
