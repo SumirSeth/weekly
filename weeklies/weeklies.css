@@ -67,11 +67,11 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-	background:#0f0f0f;
+	background:#0c0c0c;
 
 }
 body::-webkit-scrollbar-track:hover {
-	background:#000305;
+	background:#0c0c0c;
 	width:1rem;
 }
 
@@ -82,7 +82,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 body::-webkit-scrollbar-thumb:hover {
-	background:#235985;
+	background:#40a4f5;
 	width:1rem;
 }
 body::-webkit-scrollbar:hover {
