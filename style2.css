@@ -86,5 +86,18 @@ body::-webkit-scrollbar:hover {
 
 .coll{
     padding-inline: calc(0.75em + 3vmin);
+    margin-left: 6vw;
+    margin-block: calc(0.1em + 0.1vmin);
+}
+
+.drop{
+    /* padding-inline: calc(0.75em + 3vmin); */
     margin-left: 4vw;
+    margin-bottom: 3vh;
+
+}
+
+.dropdown-item:hover{
+    color: #6cf1fd!important;
+    background-color: #15181b!important;
 }
