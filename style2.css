@@ -83,3 +83,8 @@ body::-webkit-scrollbar-thumb:hover {
 body::-webkit-scrollbar:hover {
 	width:1rem;
 }
+
+.btn{
+    padding-inline: calc(0.75em + 3vmin);
+    margin-left: 4vw;
+}
