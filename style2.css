@@ -50,7 +50,7 @@ footer {
     position: absolute;
     left: 0;
     bottom: 0;
-    height: 200px;
+    height: 160px;
     width: 100%;
     overflow: hidden;
     margin-top: 20vh;
@@ -84,7 +84,7 @@ body::-webkit-scrollbar:hover {
 	width:1rem;
 }
 
-.btn{
+.coll{
     padding-inline: calc(0.75em + 3vmin);
     margin-left: 4vw;
 }
