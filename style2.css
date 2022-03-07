@@ -101,3 +101,9 @@ body::-webkit-scrollbar:hover {
     color: #6cf1fd!important;
     background-color: #15181b!important;
 }
+
+.card{
+    border-radius: 2.25rem;
+    margin-inline: 2vmin;
+    margin-bottom: 1.2vh;
+}
