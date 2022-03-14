@@ -107,3 +107,33 @@ body::-webkit-scrollbar:hover {
     margin-inline: 2vmin;
     margin-bottom: 1.2vh;
 }
+
+
+.items {
+    display: inline-block;
+    position: relative;
+    color: #0087ca;
+    text-decoration: none;
+    
+    
+    
+  }
+  
+.items:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0.15);
+    height: 2px;
+    bottom: 0;
+    right: 0;
+    background-color: #0087ca;
+    transform-origin: bottom left;
+    transition: transform 0.25s ease-out;
+  }
+  
+.items:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+    width: 100%;
+  }

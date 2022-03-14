@@ -88,3 +88,14 @@ body::-webkit-scrollbar-thumb:hover {
 body::-webkit-scrollbar:hover {
 	width:1rem;
 }
+
+span.badge.bg-danger:hover{
+    background-color: #d62032 !important;
+    font-size: 0.77em !important;
+    border-radius: 8px;
+}
+
+.little:hover{
+    color:#dbd1bd !important;
+    text-decoration:underline !important;
+}
